@@ -1,4 +1,4 @@
-# WiFi Scanner and Deauth Tool
+# WiFi DoS
 
 ## Overview
 This Python script leverages the Aircrack-ng suite to scan nearby wireless networks, display them in a real-time table, and perform a deauthentication (deauth) attack on a selected target. Designed as an educational tool, it demonstrates wireless network analysis and basic penetration testing concepts in a controlled environment.
